@@ -75,7 +75,7 @@ Install JupyterHub
       ...Skip local chart repository
       ...Successfully got an update from the "stable" chart repository
       ...Successfully got an update from the "jupyterhub" chart repository
-      Update Complete. ⎈ Happy Helming!⎈
+      Update Complete.
 
 2. Now install the chart configured by your ``config.yaml`` by running this
    command from the directory that contains your ``config.yaml``:
